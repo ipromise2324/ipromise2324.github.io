@@ -1,0 +1,19 @@
+h1{
+    border:5px dashed red;
+    color: yellow;
+}
+a{
+    font-size: 30px;
+    color: red;
+}
+a:hover{
+    color:orange;
+    font-size: 40px;
+}
+a:active{
+    color:black;
+}
+body{
+    background-image: url("https://images.chinatimes.com/newsphoto/2020-05-22/1024/20200522005433.jpg");
+    
+}
